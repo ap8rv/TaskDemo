@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="SimpleSuranceTaskCase">
+
+	<listeners>
+		<listener class-name="com.qa.ExtentReportListener.ExtentReportListener" />
+	</listeners>
+
+
+	<test name="SimpleSuranceTestCases">
+		<classes>
+			<class name="com.qa.testcases.LoginPageTest"></class>
+			<class name="com.qa.testcases.HomePageTest"></class>
+			<class name="com.qa.testcases.ProductPageTest"></class>
+			<class name="com.qa.testcases.CustomerPageTest"></class>
+			<class name="com.qa.testcases.ConfirmationPageTest"></class>
+			<class name="com.qa.testcases.PaymentPageTest"></class>
+
+		</classes>
+	</test>
+</suite>

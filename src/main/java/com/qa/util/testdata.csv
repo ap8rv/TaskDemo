@@ -1,0 +1,6 @@
+customer_first_name,customer_last_name,customer_email,customer_street,customer_street_number,customer_zip,customer_city,customer_country
+Tester,User,test@test.com,Am Karlsbad,16,10785,Berlin,DE
+Tester,User,test@test.com,Am Karlsbad,16,10785,Berlin,DE
+Tester,User,test@test.com,Am Karlsbad,16,10785,Berlin,DE
+Tester,User,test@test,Am Karlsbad,16,10785,Berlin,DE
+Tester,User,test@test.com,Am Karlsbad,16,10785,Berlin,DE
